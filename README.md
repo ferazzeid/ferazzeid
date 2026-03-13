@@ -30,7 +30,7 @@ I focus on how **AI, automation, and emerging digital platforms** fit into real 
 
 - **Website:** [ferazzeid.com](https://ferazzeid.com)
 - **LinkedIn:** [linkedin.com/in/ferazzeid](https://linkedin.com/in/ferazzeid)
-- **Email:** feraz.zeid@bluewin.ch
+- **Email:** [hello@ferazzeid.com](mailto:hello@ferazzeid.com)
 
 ---
 
