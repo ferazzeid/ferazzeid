@@ -1,43 +1,40 @@
-# Hi, I'm Feraz Zeid
+# Feraz Zeid
 
-**Digital strategy & operations** · AI & automation · Switzerland & international
+I build digital products, growth systems, and AI-assisted workflows.
 
----
+I'm based in Geneva, Switzerland, and run Swiss Digital. My background covers product management, digital growth, performance marketing, SEO, and automation. Before focusing on independent product work, I worked in regional search and performance marketing across EMEA at Parker Hannifin and in global online marketing at Swiss Education Group.
 
-## About me
+These days, I spend most of my time turning rough ideas into working products: mapping the customer journey, shipping prototypes, connecting APIs, building content operations, and measuring what changes user behaviour. I care about tools that work outside a demo.
 
-I focus on how **AI, automation, and emerging digital platforms** fit into real business, marketing, and product workflows. I combine hands-on work with small projects and prototypes to see what actually works and how teams can use these tools day to day.
+## What I work on
 
-- **Currently:** Founder & Principal at **Swiss Digital** — digital strategy, AI-assisted workflows, automation
-- **Background:** Regional search & performance marketing (EMEA) at **Parker Hannifin**; digital strategy consulting; global online marketing at **Swiss Education Group**
-- **Interests:** Multilingual publishing, SEO, content organization, AI-supported video/image/copy workflows, system integrations and APIs
+- Product strategy and product operations
+- AI-assisted software and practical automation
+- Digital growth, acquisition, SEO, and analytics
+- Multilingual publishing and localisation
+- Content, image, and video workflows
+- API integrations and lean internal tools
 
----
+## Working in private, contributing in public
 
-## Core skills
+Most of my active repositories are private because they contain product or client work. I keep my contribution graph visible as a record of the building, testing, and iteration behind that work, without publishing private repository names or source code.
 
-| Strategy & marketing | Tech & operations |
-|----------------------|--------------------|
-| Digital strategy | AI-assisted workflows |
-| Marketing automation | Product operations |
-| Performance marketing | Analytics & measurement |
-| Go-to-market planning | SEO & product findability |
-| Customer journeys | Cross-functional collaboration |
+I joined GitHub in 2013. My recent activity reflects hands-on product building across AI, automation, marketing systems, and multilingual digital products.
 
----
+## Background
 
-## Connect
-
-- **Website:** [ferazzeid.com](https://ferazzeid.com)
-- **LinkedIn:** [linkedin.com/in/ferazzeid](https://linkedin.com/in/ferazzeid)
-- **Email:** [hello@ferazzeid.com](mailto:hello@ferazzeid.com)
-
----
+- Founder and Principal, Swiss Digital
+- Product management and digital strategy
+- Regional search and performance marketing across EMEA
+- Global online marketing in international education
+- Based in Geneva and working across Switzerland and international markets
 
 ## Languages
 
-English · German · Swiss German · French · Russian
+English, German, Swiss German, French, and Russian.
 
----
+## Contact
 
-*Profile README — [Managing your profile README](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme)*
+- [ferazzeid.com](https://ferazzeid.com)
+- [linkedin.com/in/ferazzeid](https://www.linkedin.com/in/ferazzeid/)
+- [hello@ferazzeid.com](mailto:hello@ferazzeid.com)
