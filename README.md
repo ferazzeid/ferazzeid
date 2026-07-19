@@ -1,37 +1,48 @@
 # Feraz Zeid
 
-I build digital products, growth systems, and AI-assisted workflows.
+I work with ideas before they become obvious.
 
-I'm based in Geneva, Switzerland, and run Swiss Digital. My background covers product management, digital growth, performance marketing, SEO, and automation. Before focusing on independent product work, I worked in regional search and performance marketing across EMEA at Parker Hannifin and in global online marketing at Swiss Education Group.
+I'm an entrepreneur, marketer and creative thinker with a strong instinct for where technology, culture and human behaviour are moving. I notice patterns early, explore emerging technologies while they are still taking shape, and ask a simple question: what becomes possible now that was not possible before?
 
-These days, I spend most of my time turning rough ideas into working products: mapping the customer journey, shipping prototypes, connecting APIs, building content operations, and measuring what changes user behaviour. I care about tools that work outside a demo.
+Some ideas become concepts. Some become experiments, products, ventures or entirely new ways of working. I am comfortable in the uncertain space before a category has settled, when curiosity and judgement matter more than a familiar playbook.
 
-## What I work on
+## Between imagination and application
 
-- Product strategy and product operations
-- AI-assisted software and practical automation
-- Digital growth, acquisition, SEO, and analytics
-- Multilingual publishing and localisation
-- Content, image, and video workflows
-- API integrations and lean internal tools
+My work sits between vision and practice. I can shape a direction, define why it matters, understand how people might respond, and bring product, marketing, technology, content and creative thinking together around it.
 
-## Working in private, contributing in public
+I am not interested in technology for its own sake. I use it to explore new forms of value, communication, participation and experience.
 
-Most of my active repositories are private because they contain product or client work. I keep my contribution graph visible as a record of the building, testing, and iteration behind that work, without publishing private repository names or source code.
+## Bringing the edge into established businesses
 
-I joined GitHub in 2013. My recent activity reflects hands-on product building across AI, automation, marketing systems, and multilingual digital products.
+I also work with traditional businesses that want to become more contemporary without chasing every new trend. I bring experience from emerging platforms, AI, automation, digital products, acquisition, multilingual content and creative technology.
 
-## Background
+The goal is not to make a business look fashionable. It is to help it see new options, make better decisions and move with more confidence. This can mean specialist input, a fresh product or marketing direction, an experiment, or simply a clearer view of what is changing and what is not.
 
-- Founder and Principal, Swiss Digital
-- Product management and digital strategy
-- Regional search and performance marketing across EMEA
-- Global online marketing in international education
-- Based in Geneva and working across Switzerland and international markets
+## Areas I keep returning to
+
+- Entrepreneurship and early-stage concepts
+- Product and venture thinking
+- Marketing, positioning and digital growth
+- AI, automation and emerging platforms
+- Creative direction across content, image and video
+- Multilingual communication and international markets
+- Customer behaviour and changing patterns of discovery
+
+## Experience
+
+My background includes entrepreneurship, product management, digital strategy, regional search and performance marketing across EMEA, global online marketing, consulting, and hands-on experimentation with emerging technology.
+
+That range matters to me. I do not see creativity, technology, marketing and commercial thinking as separate worlds.
+
+## Why GitHub
+
+Most of my active repositories are private because they contain product or client work. I keep the contribution graph visible as a trace of the experiments, decisions and iterations behind that work, without publishing private repository names or source code.
+
+I joined GitHub in 2013. It has become one of the places where I test ideas and learn what new technologies can actually do.
 
 ## Languages
 
-English, German, Swiss German, French, and Russian.
+English, German, Swiss German, French and Russian.
 
 ## Contact
 
