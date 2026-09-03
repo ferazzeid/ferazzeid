@@ -64,6 +64,17 @@ I joined GitHub in 2013. It is one of several places where I explore technology 
 
 English, German, Swiss German, French and Russian.
 
+## Products
+
+### FastNow
+
+A free weight-loss tracking app built around a calorie deficit, walking, and optional fasting — with a fixed 90-day protocol.
+
+- Site: [fastnow.app/en](https://fastnow.app/en)
+- Protocol: [fastnow.app/en/protocol](https://fastnow.app/en/protocol)
+- Google Play: [FastNow: Weight Loss System](https://play.google.com/store/apps/details?id=com.fastnow.zenith)
+- ChatGPT / MCP: [fastnow.app/fastnow-gpt](https://fastnow.app/fastnow-gpt) · [mcp.fastnow.app](https://mcp.fastnow.app)
+
 ## Contact
 
 - [ferazzeid.com](https://ferazzeid.com)
